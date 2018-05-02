@@ -13,12 +13,18 @@
 
         </activity>
         <activity android:name="test.rajesh.com.factory_design_patterns.FactoryMain">
+
+
+        </activity>
+        <activity android:name="test.rajesh.com.Structural_DesignPatterns.composite.ManageCompanyDetails">
+
+        </activity>
+        <activity android:name="test.rajesh.com.Structural_DesignPatterns.facade.BookingClient">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
     </application>
 
